@@ -51,7 +51,7 @@ The project includes an interactive dashboard for exploring petrol prices and st
 
 ## 🔗 Live Dashboard
 
-[View Interactive Petrol Price Dashboard](YOUR_GOOGLE_APPS_SCRIPT_DASHBOARD_LINK)
+[View Interactive Petrol Price Dashboard](https://script.google.com/macros/s/AKfycbyxYi-vnjnL_8CH_RXPrrhQ4ZG1BGf_OWTOfHVo9bWYXT3_RSVgqkSSaqJ-DH4QmuXvoA/exec)
 
 ## 🎯 Key Skills Demonstrated
 
